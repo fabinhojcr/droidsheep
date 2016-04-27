@@ -39,7 +39,7 @@
 	<string name="menu_debug">Debug</string>
 	<string name="menu_export">Export via eMail</string>
 	<string name="menu_blacklist_clear">Clear Blacklist</string>
-	<string name="menu_helpforum">HELP!</string>
+	<string name="menu_helpforum">Ajuda!</string>
 	<string name="menu_donate">DONATION</string>
 	
 	<string name="clear_blacklist">Do you really want to delete all hosts from blacklist?</string>
